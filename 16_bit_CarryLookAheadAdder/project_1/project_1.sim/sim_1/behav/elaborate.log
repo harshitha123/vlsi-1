@@ -1,0 +1,20 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx_hls/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto 6de02938db2242b4bf10ec7d55cc74ec --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot CarryLookAheadAdder_tb_behav xil_defaultlib.CarryLookAheadAdder_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 2 for port Cout [C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.srcs/sources_1/new/16_bit_CarryLookAheadAdder.v:32]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 2 for port Cout [C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.srcs/sources_1/new/16_bit_CarryLookAheadAdder.v:33]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 2 for port Cout [C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.srcs/sources_1/new/16_bit_CarryLookAheadAdder.v:34]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 2 for port Cout [C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.srcs/sources_1/new/16_bit_CarryLookAheadAdder.v:35]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.PGenerator
+Compiling module xil_defaultlib.PartialAdder
+Compiling module xil_defaultlib.CarryLookAheadAdder4bit
+Compiling module xil_defaultlib.CarryLookAheadAdder_16bit
+Compiling module xil_defaultlib.CarryLookAheadAdder_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot CarryLookAheadAdder_tb_behav

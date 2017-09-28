@@ -1,0 +1,7 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.srcs/sim_1/new/CarryLookAheadAdder_tb.v,1506101657,verilog,,,,CarryLookAheadAdder_tb,,,,,,,,
+C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.srcs/sources_1/new/16_bit_CarryLookAheadAdder.v,1506101400,verilog,,,,CarryLookAheadAdder4bit;CarryLookAheadAdder_16bit;PGenerator;PartialAdder,,,,,,,,

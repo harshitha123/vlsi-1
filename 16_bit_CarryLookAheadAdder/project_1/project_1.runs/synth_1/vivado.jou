@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Sep 17 00:52:24 2017
+# Process ID: 6648
+# Current directory: C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log CarryLookAheadAdder_16bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CarryLookAheadAdder_16bit.tcl
+# Log file: C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.runs/synth_1/CarryLookAheadAdder_16bit.vds
+# Journal file: C:/vlsi/code_samples/16_bit_CarryLookAheadAdder/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source CarryLookAheadAdder_16bit.tcl -notrace

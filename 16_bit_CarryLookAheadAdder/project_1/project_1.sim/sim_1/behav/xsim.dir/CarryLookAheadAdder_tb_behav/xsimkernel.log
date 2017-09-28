@@ -1,0 +1,4 @@
+Running: xsim.dir/CarryLookAheadAdder_tb_behav/xsimk.exe -simmode gui -wdb CarryLookAheadAdder_tb_behav.wdb -simrunnum 0 -socket 51460
+Design successfully loaded
+Design Loading Memory Usage: 8560 KB (Peak: 8560 KB)
+Design Loading CPU Usage: 92 ms
